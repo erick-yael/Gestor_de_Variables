@@ -1,4 +1,4 @@
-# 📊 Gestor de Variables - SESNA
+# 📊 Gestor de Variables 
 
 > **Sistema integral para la gestión, carga masiva y categorización inteligente de variables e indicadores de gestión pública.**
 
